@@ -8,7 +8,7 @@ git clone https://github.com/Furyforev3r/Ordem-Paranormal-Generator.git
 ```
 ## 📁 | Requirements
 + **Python/Pip**
-# 🖥️ How to Run
+# 🖥️ | How to Run
 **Run the aplication:**
 ```bash
 py main.py
